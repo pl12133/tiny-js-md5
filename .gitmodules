@@ -1,3 +1,0 @@
-[submodule "js-crypto"]
-	path = js-crypto
-	url = git@github.com:jbt/js-crypto.git
